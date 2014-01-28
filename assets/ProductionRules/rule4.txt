@@ -1,0 +1,8 @@
+Axiom
+F
+Iterations
+4
+Angle
+22.5
+Rule
+F=FF-[-F+F+F]+[+F-F-F]

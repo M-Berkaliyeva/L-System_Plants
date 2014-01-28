@@ -1,0 +1,10 @@
+Axiom
+A
+Iterations
+6
+Angle
+90
+Rule
+A=-BF+AFA+FB-
+Rule
+B=+AF-BFB-FA+
